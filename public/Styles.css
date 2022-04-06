@@ -1,14 +1,14 @@
-h1 {
+.h1 {
     color: green;
 }
 
-ul {
+.ul {
     background: #3399ff;
     padding: 20px;
 }
   
-  li {
+.li {
     background: #cce5ff;
     color: darkblue;
     margin: 5px;
-  }
+}
